@@ -16,6 +16,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yonzzi)](https://solved.ac/yonzzi/)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={yonzzi})](https://solved.ac/profile/yonzzi)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={yonzzi})](https://solved.ac/{yonzzi})
 </div>
 
